@@ -16,3 +16,4 @@ Cara cek SSH dilaptop anda, Ketik dibawah ini :
 
   cat ~/.ssh/id_rsa.pub
 
+## Tenten dan Ndandan
